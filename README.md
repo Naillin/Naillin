@@ -38,6 +38,7 @@
 ![](https://img.shields.io/badge/-gunicorn-499848?logo=gunicorn&logoColor=white)
 
 ### 📱 Mobile & Embedded
+![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
