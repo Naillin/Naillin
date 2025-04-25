@@ -38,7 +38,6 @@
 
 ## 📈 Stats
 ![](https://github-readme-stats.vercel.app/api?username=Naillin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
-![](https://github-readme-stats.vercel.app/api?username=Naillin&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naillin&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naillin&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naillin&theme=2077)
