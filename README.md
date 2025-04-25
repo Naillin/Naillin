@@ -43,7 +43,10 @@
 ![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 
-### 🐧 System Tools
+### 🖥️ System Tools & OS
+![](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
+![](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 
 ## 📈 Stats
