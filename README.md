@@ -37,8 +37,8 @@
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## 📈 Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridos&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ridos&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridos&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridos&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridos&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naillin&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naillin&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naillin&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naillin&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naillin&theme=2077)
