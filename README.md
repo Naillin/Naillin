@@ -50,6 +50,12 @@
 ![](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 
+### 🤖 Bot Development
+![](https://img.shields.io/badge/-Telegram_Bot_API-26A5E4?logo=telegram&logoColor=white)
+![](https://img.shields.io/badge/-TLSharp-26A5E4?logo=telegram&logoColor=white)
+![](https://img.shields.io/badge/-Discord_Bot_API-5865F2?logo=discord&logoColor=white)
+![](https://img.shields.io/badge/-discord.py-5865F2?logo=discord&logoColor=white)
+
 ## 📈 Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naillin&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naillin&theme=nord_dark)
